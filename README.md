@@ -9,36 +9,6 @@
 Сохраняет каждый фрагмент в папку clips.
 Создаёт таблицу metadata.csv с информацией о каждом фрагменте.
 
-СТРУКТУРА ПРОЕКТА
-
-ossetian-audio-splitter/
-
-│
-
-├── README.md
-
-├── requirements.txt
-
-├── split_by_pauses.py
-
-│
-
-├── data/
-
-│   └── ossetian_audio_16k.wav
-
-│
-
-├── clips/
-
-│   └── нарезанные аудиофрагменты
-
-│
-
-└── results/
-
-    └── metadata.csv
-
 ПОДГОТОВКА АУДИО
 
 Исходный аудиофайл должен быть в формате WAV.
