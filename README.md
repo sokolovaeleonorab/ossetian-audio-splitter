@@ -12,18 +12,31 @@
 СТРУКТУРА ПРОЕКТА
 
 ossetian-audio-splitter/
+
 │
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── split_by_pauses.py
+
 │
+
 ├── data/
+
 │   └── ossetian_audio_16k.wav
+
 │
+
 ├── clips/
+
 │   └── нарезанные аудиофрагменты
+
 │
+
 └── results/
+
     └── metadata.csv
 
 ПОДГОТОВКА АУДИО
