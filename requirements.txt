@@ -1,1 +1,8 @@
+transformers
+accelerate
+torch
+soundfile
+librosa
 pydub
+pandas
+numpy
